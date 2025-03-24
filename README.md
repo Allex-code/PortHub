@@ -1,2 +1,2 @@
-# Demo
-This is a demo repo that I will delete soon
+# Test Repo
+This is a test for project repo
